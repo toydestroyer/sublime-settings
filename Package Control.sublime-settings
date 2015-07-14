@@ -4,9 +4,9 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"EditorConfig",
 		"Package Control",
-		"Terminal",
 		"Theme - Soda"
 	]
 }
