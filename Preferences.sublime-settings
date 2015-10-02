@@ -1,11 +1,9 @@
 {
-  // "font_face": "Source Code Pro",
-  "font_face": "Hack",
-  // "font_size": 12,
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_face": "Hack",
 	"highlight_line": true,
 	"ignored_packages":
 	[

@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,9 +7,13 @@
 	[
 		"AutoFileName",
 		"EditorConfig",
+		"Handlebars",
+		"HTML Snippets",
 		"JSX",
 		"Package Control",
+		"RuboCop",
 		"Sass",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TodoReview"
 	]
 }
