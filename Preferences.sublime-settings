@@ -1,6 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
@@ -24,6 +25,7 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_separator": true,
+  "material_theme_accent_indigo": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
@@ -33,7 +35,6 @@
 	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
-  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
