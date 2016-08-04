@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Color Highlighter",
 		"EditorConfig",
 		"Handlebars",
 		"HTML Snippets",
@@ -15,10 +16,15 @@
 		"Material Theme",
 		"nginx",
 		"Package Control",
+		"PgSQL",
+		"Postgres PL pgSQL",
 		"PostgreSQL Syntax Highlighting",
 		"Pretty JSON",
 		"RuboCop",
 		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"SqlBeautifier",
 		"Theme - Soda",
 		"TodoReview"
 	]
