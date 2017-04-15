@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"EditorConfig",
 		"Handlebars",
@@ -25,6 +26,7 @@
 		"SASS Snippets",
 		"SassBeautify",
 		"SqlBeautifier",
+		"Terminal",
 		"Theme - Soda",
 		"TodoReview"
 	]
