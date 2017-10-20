@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
@@ -10,6 +10,7 @@
 	[
 		"gray_antialias"
 	],
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
